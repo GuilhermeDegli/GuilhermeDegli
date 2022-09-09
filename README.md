@@ -2,8 +2,6 @@ Olá! 👋
 
 - 🔭 Ainda não trabalho na área
 - 🌱 Aprendendo JavaScript
-- 😄 Pronouns: Elo/Delo
-
 
 
 <div align="center">
