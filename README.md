@@ -7,8 +7,8 @@ Olá! 👋
 
 <div align="center">
   <a href="https://github.com/GuilhermeDegli">
-  <img height="180em", width ="400em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDegli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em", width ="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDegli&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em", width ="390em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDegli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em", width ="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDegli&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -25,12 +25,12 @@ Olá! 👋
   
  <div style="display: inline_block"> 
   
- <a align="center" href = "guidegli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                    target="_blank">
+ <a align="center" justify="center" href = "guidegli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                    target="_blank">
  </a>
   
- <a href="https://www.instagram.com/gui__lira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-    badge&logo=instagram&logoColor=white" target="_blank">
+ <a align="center" justify="center" href="https://www.instagram.com/gui__lira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-    badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
-<a href="https://www.linkedin.com/in/guilherme-degliomini-b84b41244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a align="center" justify="center" href="https://www.linkedin.com/in/guilherme-degliomini-b84b41244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
