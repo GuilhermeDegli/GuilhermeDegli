@@ -17,5 +17,5 @@ Olá! 👋
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Twisted_Fate_Poro_Icon.png/revision/latest/scale-to-width-down/250?cb=20150215130539">
 </div>
