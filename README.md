@@ -1,6 +1,6 @@
 Olá! 👋
 
-- 🔭 Não trabalho na área
+- 🔭 Ainda não trabalho na área
 - 🌱 Aprendendo JavaScript
 - 😄 Pronouns: Elo/Delo
 
