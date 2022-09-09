@@ -1,8 +1,8 @@
 Olá! 👋
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 😄 Pronouns: 
+- 🔭 Não trabalho na área
+- 🌱 Aprendendo JavaScript
+- 😄 Pronouns: Elo/Delo
 
 
 
