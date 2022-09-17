@@ -2,8 +2,7 @@ Olá! 👋
 
 - 📚 Estudante
 - 🔭 Ainda não trabalho na área
-- 🌱 Aprendendo JavaScript e Python
-
+- 💻 Aprendendo JavaScript 
 ##
 
   <div style="display: inline_block"><br>
