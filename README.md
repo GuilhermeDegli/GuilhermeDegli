@@ -1,7 +1,6 @@
 Olá! 👋
 
 - 📚 Estudante
-- 🔭 Ainda não trabalho na área
 - 💻 Aprendendo JavaScript 
 ##
 
