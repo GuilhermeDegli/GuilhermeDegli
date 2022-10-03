@@ -4,7 +4,7 @@ Olá! 👋
 - 💻 Aprendendo JavaScript 
 ##
 
-Meu portifólio: https://guilhermedegli.github.io/Portifolio/
+Meu portifólio: 
 
 ##
 
