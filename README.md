@@ -1,7 +1,7 @@
 Olá! 👋
 
 - 📚 Estudante
-- 💻 Aprendendo JavaScript e Python, foco em ciência de dados
+- 💻 Aprendendo JavaScript e Python
 ##
 
 Meu portifólio: 
