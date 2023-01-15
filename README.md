@@ -1,7 +1,7 @@
 Olá! 👋
 
-- 📚 Estudante
-- 💻 Aprendendo JavaScript e Python
+- 📚 Estudante de Análise de Sistemas.
+- 💻 Estagiário de TI em banco de dados.
 ##
 
 Meu portifólio: 
