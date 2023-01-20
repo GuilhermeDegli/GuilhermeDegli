@@ -4,7 +4,7 @@ Olá! 👋
 - 💻 Estagiário de TI em banco de dados.
 ##
 
-Meu portifólio: 
+Meu portifólio (Em Construção): https://guilhermedegli.github.io/Portifolio/
 
 ##
 
