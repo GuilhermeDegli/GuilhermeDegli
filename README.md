@@ -2,9 +2,7 @@ Olá! 👋
 
 - 📚 Estudante de Análise de Sistemas na FAETERJ.
 - 💻 Estagiário de TI em banco de dados.
-##
 
-Portifólio (Em Construção):
 
 
 ##
